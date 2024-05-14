@@ -11,6 +11,16 @@ layout: default
     {{ content }}
   </article>
 
+  {% if page.pdf %}
+    <a
+      href="{{ page.pdf | prepend: 'assets/pdf/' | relative_url}}"
+      target="_blank"
+      rel="noopener noreferrer"
+      class="float-right"
+      ><i class="fa-solid fa-file-pdf"></i
+    ></a>
+  {% endif %}
+
   {% if page.related_publications %}
     <h2>References</h2>
     <div class="publications">
