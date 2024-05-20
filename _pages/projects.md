@@ -2,10 +2,10 @@
 layout: page
 title: portfolio
 permalink: /portfolio/
-description: Programming projects to date.
+description: Machine Learning and Software programs to date.
 nav: true
 nav_order: 3
-display_categories: [Software Development, Machine Learning]
+display_categories: [Machine Learning, Software Development]
 horizontal: false
 ---
 

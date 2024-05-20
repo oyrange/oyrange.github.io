@@ -19,6 +19,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I've worked in Berkeley as a programming teacher and copywriter, and abroad as an English teacher and farmer. I've worked tech, whiteboard, and field.
-In 2021, I returned to Berkeley and discovered a fascination with software development. I transitioned easily into a student teacher for UC Berkeley's notorious Structure of Computer Programs and followup Data Structures course, guiding undergraduates through complex algorithm and program design. In turn, my personal projects are always designed to be agile, scalable, and test driven.
+In 2021, I returned to Berkeley and discovered a fascination with software development.
 
-At the end of the day, I'm a language learner. I love building software because I love puzzle-crafting, and I love traveling because I love working with people.
+I transitioned easily into a student teacher for UC Berkeley's notorious Structure of Computer Programs and followup Data Structures course, guiding undergraduates through complex algorithm and program design. In turn, my personal projects are always designed to be agile, scalable, and test driven.

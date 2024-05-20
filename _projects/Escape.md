@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Escape!
-description: A quest game featuring random generation and progress saving.
+description: A progress saving quest game featuring infinite random map generation.
 img: /assets/img/project-imgs/Escape/lights-out.png
 importance: 2
 category: Software Development
