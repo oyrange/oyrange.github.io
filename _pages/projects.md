@@ -2,7 +2,7 @@
 layout: page
 title: portfolio
 permalink: /portfolio/
-description: Machine Learning and Software programs to date.
+description: Machine Learning and Software programs to date. More past projects coming soon!
 nav: true
 nav_order: 3
 display_categories: [Machine Learning, Software Development]
